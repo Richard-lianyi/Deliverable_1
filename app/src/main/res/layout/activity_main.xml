@@ -8,9 +8,10 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="186dp"
-        android:layout_height="148dp"
+        android:layout_width="286dp"
+        android:layout_height="134dp"
         android:text="Welcome!  "
+        android:textSize="60sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"

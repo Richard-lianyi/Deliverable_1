@@ -18,4 +18,10 @@ public class MainActivity extends AppCompatActivity {
     public void onClickLogIn(View view){
 
     }
+    public void onClickPatient(View view){
+
+    }
+    public void onClickDoctor(View view){
+
+    }
 }
