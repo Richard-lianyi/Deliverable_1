@@ -14,6 +14,7 @@
         android:layout_marginEnd="29dp"
         android:layout_marginBottom="528dp"
         android:text="Please choose which Roles you want to registe"
+        android:textAlignment="center"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
