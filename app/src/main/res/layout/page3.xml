@@ -42,15 +42,32 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="numberPassword"
-        tools:layout_editor_absoluteX="74dp"
-        tools:layout_editor_absoluteY="292dp" />
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="289dp" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/Account_password"
         android:layout_width="207dp"
         android:layout_height="22dp"
-        android:text="TextView"
+        android:text="Account password"
         tools:layout_editor_absoluteX="79dp"
         tools:layout_editor_absoluteY="267dp" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="360dp" />
+
+    <TextView
+        android:id="@+id/Email_address"
+        android:layout_width="212dp"
+        android:layout_height="20dp"
+        android:text="Email address"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="339dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
